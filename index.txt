@@ -2,3 +2,5 @@ Title : M2i Formation
 Content : Une excellente formation 
 
 Si vous avez déjà un compte connecter vous ici -> login.txt 
+
+Si vous voulez ajouter une prestation aller ici -> ajout_prestations.txt
